@@ -11,6 +11,6 @@ python3 car_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --m
 python3 car_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --output output/webcam01_output.avi
 
 ### Output Examples
-https://github.com/MarcoResidori/car-counter-opencv/blob/master/output/video01_output.avi
-https://github.com/MarcoResidori/car-counter-opencv/blob/master/output/video02_output.avi
+https://github.com/MarcoResidori/CarCounter/blob/master/output/video01_output.avi
+https://github.com/MarcoResidori/CarCounter/blob/master/output/video02_output.avi
 
